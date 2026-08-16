@@ -1,14 +1,19 @@
 # Mobile-Sales-Dashboard
 
-## 📌 Problem Statement (समस्या क्या थी?)
-- बिज़नेस को यह समझने में दिक्कत आ रही थी कि विभिन्न शहरों, मोबाइल मॉडलों और महीनों में बिक्री (Sales) और क्वांटिटी (Quantity) का प्रदर्शन कैसा है?
-- मैन्युअल एक्सेल शीट्स के कारण डेटा को ट्रैक करने और तुरंत निर्णय लेने में बहुत समय बर्बाद हो रहा था।
-- ग्राहकों की संतुष्टि (Ratings) और उनके भुगतान करने के तरीके (Payment Methods) क्या हैं ताकि बिजनेस ऑपरेशंस और मार्केटिंग को सुधारा जा सके?
-- इस डैशबोर्ड का उद्देश्य सेल्स टीम को लाइव और इंटरैक्टिव विजुअल्स देना है ताकि वे कमजोर प्रदर्शन वाले क्षेत्रों को पहचान सकें।
+## Problem Statement
 
-## 📊 Key Insights (मुख्य निष्कर्ष जो डैशबोर्ड से मिले)
-- **Top Performing Modles & Brands:** सबसे ज्यादा बिकने वाले मॉडल्स में iPhone SE (60M), OnePlus (58M), और Galaxy Note (56M) शामिल हैं। टोटल सेल्स के मामले में Apple (161.6M) सबसे आगे है, इसके बाद Samsung (160M) और OnePlus (153.7M) का नंबर आता है।
-- **Payment & Customer Ratings:** ग्राहक सबसे ज्यादा UPI (26.25%) और क्रेडिट कार्ड (25.89%) से पेमेंट करना पसंद करते हैं। कैश का इस्तेमाल सबसे कम (22.83%) होता है। कुल 5-स्टार रेटिंग सबसे ज्यादा (311) है, जो अच्छी बात है। हालांकि, 1-स्टार और 2-स्टार रेटिंग देने वाले ग्राहकों की संख्या भी काफी है, जिसे सुधारने की जरूरत है।
-- **Sales & Quantity Trends:** साल के दौरान कुल क्वांटिटी में काफी उतार-चढ़ाव है। जुलाई (1700) और मार्च (1696) में सबसे ज्यादा यूनिट्स बिकीं, जबकि फरवरी (1451) में सबसे कम बिक्री हुई।
-- **Actionable Advice:** 52% से ज्यादा ग्राहक UPI और क्रेडिट कार्ड से पेमेंट कर रहे हैं। बैंकों के साथ पार्टनरशिप करके "क्रेडिट कार्ड नो-कॉस्ट EMI" या "UPI कैशबैक" ऑफर्स दें, जिससे ग्राहक महंगे फोन आसानी से खरीद सकें।
+-- It was difficult to understand how Sales and Quantity were performing across different cities, mobile models, and months.
+-- Manual Excel sheets wasted time tracking data and delayed quick decision-making.
+-- Needed to understand customer Ratings and Payment Methods to improve business operations and marketing.
+-- Goal: Provide the sales team with a live, interactive dashboard to identify underperforming areas.
+
+## Key Insights
+
+-- Top Models & Brands: iPhone SE, OnePlus, and Galaxy Note are the top-selling models. Apple (161.6M) leads in total sales, followed by       Samsung and OnePlus.
+-- Payment & Ratings: UPI (26.25%) and Credit Card (25.89%) are the most preferred payment methods; Cash is used the least. 5-star ratings     are highest (311), but 1-2 star ratings also need attention.
+-- Sales Trends: July and March saw the highest sales, while February had the lowest.
+-- Actionable Advice: UPI cashback and No-Cost EMI offers can make it easier for customers to purchase expensive phones.
+
+
+
   
