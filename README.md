@@ -1,8 +1,8 @@
 # 📊 Mobile Sales Performance & Customer Insights Dashboard
-> An end-to-end data analytics project using SQL and Power BI to analyze retail business growth.
+> An end-to-end data analytics project using Power BI to analyze retail business growth.
 
 #    Project review
--- This project analyzes 1 year of retail sales data to identify top-performing products, customer purchasing behavior, and monthly          revenue trends. It helps the sales team make data-driven decisions.
+-- This project analyzes 3 year of retail sales data to identify top-performing products, customer purchasing behavior, and monthly          revenue trends. It helps the sales team make data-driven decisions.
 
 -- It was difficult to understand how Sales and Quantity were performing across different cities, mobile models, and months.
 -- Manual Excel sheets wasted time tracking data and delayed quick decision-making.
