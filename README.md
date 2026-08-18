@@ -9,11 +9,6 @@ By transforming raw transactional data into actionable insights, this project em
 
 ---
 
-## 🚀 Live Links
-* 🌐 **Interactive Live Dashboard:** [View Live Dashboard Link (NovyPro/Tableau Public/PowerBI)](https://your-portfolio-link.com)
-* 📂 **Dataset Source:** [Kaggle / Dataset Link](https://kaggle.com)
-
----
 
 ## 🛠️ Tech Stack & Tools Used
 * **Data Visualization / BI Tool:** Power BI 
