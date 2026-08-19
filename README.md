@@ -46,13 +46,13 @@ By transforming raw transactional data into actionable insights, this project em
 
 ## 📌 How to View the Project
 1. Clone this repository or download the files.
-2. Open the `.pbix` / `.twbx` file using **Power BI Desktop / Tableau Desktop**.
+2. Open the `.pbix` file using **Power BI Desktop**.
 3. Explore the interactive charts and filters (filters for Brand, Region, and Timeline).
 
 ---
 
 ## 👤 Author
-* **Your Name** - [LinkedIn Profile](https://linkedin.com) | [GitHub Profile](https://github.com)
+* **Shalu Songara** -  [GitHub Profile](https://github.com)
 
 
 
