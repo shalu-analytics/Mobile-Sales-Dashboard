@@ -1,9 +1,8 @@
 # 📱 Mobile Sales Performance & Insights Dashboard
 
-![Dashboard Banner/Screenshot](https://placeholder.com)
 
 ## 📝 Project Overview
-The smartphone market is highly competitive, with rapidly changing consumer preferences and seasonal demand shifts. This project focuses on building an end-to-end **Mobile Sales Dashboard** to analyze sales performance, regional demand, and brand profitability. 
+The smartphone market is highly competitive, with rapidly changing consumer preferences and seasonal demand shifts. This project focuses on building an end-to-end **Mobile Sales Dashboard** to analyze sales performance,monthly demand, and brand profitability. 
 
 By transforming raw transactional data into actionable insights, this project empowers retail managers to track key business metrics (KPIs) in real-time, helping them optimize inventory and boost sales strategy.
 
@@ -18,10 +17,10 @@ By transforming raw transactional data into actionable insights, this project em
 ---
 
 ## 📊 Key Business Metrics Tracked (KPIs)
-* **Sales Performance:** Total Revenue, Units Sold, and Average Order Value (AOV).
-* **Brand & Model Analysis:** Top 5 selling mobile brands and models by profit margin.
-* **Regional Insights:** State-wise and city-wise sales distribution maps.
-* **Time-Series Analysis:** Monthly and quarterly revenue trends to identify peak sales seasons.
+* **Sales Performance:** Total Revenue, Units Sold, and Average.
+* **Brand & Model Analysis:** Top 5 selling mobile brands and models by total sales and total qty.
+* **Regional Insights:** City-wise sales distribution maps.
+* **Time-Series Analysis:** Monthly revenue trends to identify peak sales seasons.
 
 ---
 
@@ -34,9 +33,6 @@ By transforming raw transactional data into actionable insights, this project em
 
 ### 2. Data Modeling
 * Established relationships between tables using a **Star Schema** layout (Fact Table linked with Dimension Tables).
-
-### 3. DAX & Measures *(Agar Power BI use kiya hai, nahi toh delete kar dein)*
-* Wrote custom DAX measures for calculating *Total Profit*, *YoY Sales Growth*, and *Moving Averages*.
 
 ---
 
