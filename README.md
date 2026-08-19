@@ -52,7 +52,7 @@ By transforming raw transactional data into actionable insights, this project em
 ---
 
 ## 👤 Author
-* **Shalu Songara** -  [GitHub Profile]((https://github.com/shalu-analytics))
+* **Shalu Songara** -  [GitHub Profile-(https://github.com/shalu-analytics)]
 
 
 
